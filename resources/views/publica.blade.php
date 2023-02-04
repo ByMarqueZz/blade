@@ -1,0 +1,6 @@
+@include('partials.publica.head')
+@include('partials.publica.header')
+@include('partials.publica.about')
+@include('partials.publica.vegetable')
+@include('partials.publica.contact')
+@include('partials.publica.footer')
